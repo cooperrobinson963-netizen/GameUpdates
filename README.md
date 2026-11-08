@@ -1,3 +1,2 @@
-# GameUpdates
-
-Game update files are published here automatically.
+TrashDash Game Updates
+This repository stores automatic game updates.
